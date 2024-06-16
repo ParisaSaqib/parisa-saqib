@@ -19,6 +19,7 @@ Bachelor's Degree in Digital Forensics and Cybersecurity (in progress) - British
 🏆 Certifications
 - Cybersecurity Strategy and Risk Management
 - Linux System Administration
+- Windows PC System Administration
 - CCNA: Switching, Routing, and Wireless Essentials
 
 Currenly working as Service Desk Analyst
