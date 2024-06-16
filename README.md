@@ -32,5 +32,3 @@ Currenly working as Service Desk Analyst
 📫 Connect with Me
 LinkedIn: [Parisa Saqib](https://www.linkedin.com/in/parisa-saqib-4b4a161b1)
 Email: saqibparisa@gmail.com
-
-This README.md format uses a few relevant emojis to make it engaging while keeping the content concise and focused on your professional background and interests.
