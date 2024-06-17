@@ -64,9 +64,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 
 
-- [Emanuel Project](https://example.com/emanuel-project)
-- [CycleAlertBuddy Project](https://example.com/cyclealertbuddy-project)
-- [Simon Says Game in Arduino](https://example.com/simon-says-game-arduino)
+- [Emmanuel Ethical Hacking Project](https://github.com/ParisaSaqib/Emanuel-Ethical-Hacking-Project))
+- [CycleAlertBuddy Project](https://github.com/ParisaSaqib/CyberAlertBuddy)
+- [Simon Says Game in Arduino](https://github.com/ParisaSaqib/Managing-Server-With-Powershell)
 - [Remote Server Management Project](https://example.com/remote-server-management-project)
 
 ## Volunteer Experience
