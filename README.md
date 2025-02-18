@@ -15,13 +15,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project                                   |
 |-----------------------------------------------|------------------------------------------------------|
-| Adept with Linux, PLC, and Operation Technology | [Emmanuel Ethical Hacking Project](https://github.com/ParisaSaqib/Emanuel-Ethical-Hacking-Project) |
+|Cybersecurity System for Door Face Panels       | [Cybersecurity System for Door Face Panels ](https://app.riipen.com/teams/KVb3omkO/certificates/DOpg4avV)| 
+|Adept with Linux, PLC, and Operation Technology | [Emmanuel Ethical Hacking Project](https://github.com/ParisaSaqib/Emanuel-Ethical-Hacking-Project) |
 | Familiar with cybersecurity standards and procedures | Auditing, Admin Exchange, TDX, Azure, Argos, Greenbone, Nessus |
 | Experienced in embedded systems                | [CycleAlertBuddy Project](https://github.com/ParisaSaqib/Emanuel-Ethical-Hacking-Project) |
 | Networking design and troubleshooting          | [Emmanuel Ethical Hacking Project](https://github.com/ParisaSaqib/Emanuel-Ethical-Hacking-Project) |
 | Firewall management using pfSense              | [Emmanuel Ethical Hacking Project](https://github.com/ParisaSaqib/Emanuel-Ethical-Hacking-Project) |
 | Server management and virtualization           | [Remote Server Management Project](https://github.com/ParisaSaqib/Managing-Server-With-Powershell) |
 | Programming languages (Python, Java, SQL, C++) | [Simon Says Game in Arduino](https://github.com/ParisaSaqib/SimonSaysGameArduino) |
+
 
 
 
